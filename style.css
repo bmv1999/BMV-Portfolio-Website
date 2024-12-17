@@ -1,0 +1,111 @@
+body{
+    background-color: gray;
+    margin: 0px;
+}
+
+main{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: verdana, arial;
+    color: black;
+
+}
+
+h1{
+    text-align: right;
+    font-family: verdana, arial;
+    color: black;
+    outline: auto;
+    margin: 0px;
+    padding: 15px;
+}
+
+h2{
+    text-align: center;
+}
+
+p1{
+    width: 50%;
+    margin-left: 20px;
+    margin-top: 150px;
+    font-size: xx-large;
+    text-align: left;
+    float: left
+}
+
+img_section1{
+    float: center;
+    margin-top: 10px;
+}
+img_section2{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+img_section3{
+    padding-top: 200px;
+    float: left;
+    margin-top: 50px;
+}
+
+about_sec{
+    width: 55%;
+    margin-left: 20px;
+    text-align: left;
+    float: left
+}
+
+form{
+    text-align: center;
+}
+
+.project{
+    text-align: center;
+}
+
+.links ul{
+    font-size: xxx-large;
+    list-style-type: none;
+    margin: 0auto;
+    padding: 0px;
+    overflow: hidden;
+}
+.links a{
+    padding-left: 15px;
+    padding-right: 15px;
+    color:rgb(26, 16, 165);
+    
+}
+.links li{
+    margin:0 auto;
+    text-align: center;
+    float: left;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(26, 16, 165);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(23, 23, 114);
+    box-shadow: inset;
+}
+.navbar li{
+    float: left;
+}
+
+@media screen and (max-width: 600px){
+    
+}
