@@ -24,6 +24,14 @@ h2{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
 p1{
     width: 50%;
     margin-left: 20px;
@@ -57,7 +65,7 @@ about_sec{
 }
 
 form{
-    text-align: center;
+    text-align: left;
 }
 
 .project{
